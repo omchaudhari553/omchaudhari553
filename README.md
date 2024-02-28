@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Web Devlopment**
 
-- 👨‍💻 All of my projects are available at [https://omchoudhari.netlify.app/](https://omchoudhari.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://omchudharii.netlify.app/](https://omchudharii.netlify.app/)
 
 - 💬 Ask me about **Java,HTML,CSS**
 
