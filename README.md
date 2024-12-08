@@ -6,17 +6,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omchaudhari553&label=Profile%20views&color=0e75b6&style=flat" alt="omchaudhari553" /> </p>
 
-- 🌱 I’m currently learning **Web Devlopment**
+<!--  __________________________________ About Me __________________________________ -->
+<h3 align="left">🙋‍♂️ About Me</h3>
 
+- 🌱 I’m currently learning **Java Full Stack Development**
+- 🥋 I'm a very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas. ❤
 - 👨‍💻 All of my projects are available at [https://omchudharii.netlify.app/](https://omchudharii.netlify.app/)
-
-- 💬 Ask me about **Java,HTML,CSS**
-
+- 💬 Ask me about **Java & Web**
 - 📫 How to reach me **omchaudhari553@gmail.com**
-
 - ⚡ Fun fact **I am Funny😂**
-
-<h3 align="left">Connect with me:</h3>
+- 🔗 Connect Me on [**Linkedin**](linkedin.com/in/om-chaudhari-00277a250)
+- 👁‍🗨 What's Special about me? <br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ability to quickly Learn and Master a new skill and to implement it to solve a realtime problem.
+  
 <p align="left">
 <a href="https://linkedin.com/in/om chaudhari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="om chaudhari" height="30" width="40" /></a>
 <a href="https://fb.com/om chaudhari patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="om chaudhari patil" height="30" width="40" /></a>
@@ -24,11 +26,45 @@
 <a href="https://www.youtube.com/c/not om ff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="not om ff" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+  <!--  __________________________________ Languages and Tools __________________________________ -->
+<br/>
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=c,java,js,html,css,jquery,bootstrap,react,angular,hibernate,spring,mongodb,mysql,git,github,eclipse,vscode,npm&perline=8" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=omchaudhari553&show_icons=true&locale=en&layout=compact" alt="omchaudhari553" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omchaudhari553&show_icons=true&locale=en" alt="omchaudhari553" /></p>
+<!--  __________________________________ Streak  __________________________________ -->
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omchaudhari553" alt="omchaudhari553" />
+</p>
+<br/> 
+<hr>
+<br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omchaudhari553&" alt="omchaudhari553" /></p>
+<!--  __________________________________ My Github Stats __________________________________ -->
+
+
+<h3 align="left">📊 My Github Stats</h3>
+   <br/>
+<a href="https://github.com/omchaudhari553/github-readme-stats">
+<img align="center" height="175px" alt="omchaudhari553 Github Stats" 
+src="https://github-readme-stats.vercel.app/api?username=omchaudhari553&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
+  <a href="https://github.com/omchaudhari553/github-readme-stats">
+    <img align="center" height="175px" alt="Gajendra Ingle Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omchaudhari553&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+  </a>
+  
+<br/>
+<br/>
+
+<!--  __________________________________ Graph __________________________________ -->
+
+   <h3 align="left">📈 Graph</h3>
+  <p align="center">
+      <img src="https://github.com/killshotxd/svgIcons/blob/main/github-contribution-grid-snake.svg" alt="snake">
+  </p>
+<br/> <br/> 
+
+
+
+
