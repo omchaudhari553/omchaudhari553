@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Java Full Stack Development**
 - 🥋 I'm a very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas. ❤
-- 👨‍💻 All of my projects are available at [https://omchudharii.netlify.app/](https://omchudharii.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://om-chaudhari-portfolio.netlify.app](https://om-chaudhari-portfolio.netlify.app)
 - 💬 Ask me about **Java & Web**
 - 📫 How to reach me **omchaudhari553@gmail.com**
 - ⚡ Fun fact **I am Funny😂**
