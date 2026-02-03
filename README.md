@@ -7,40 +7,61 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omchaudhari553&label=Profile%20views&color=0e75b6&style=flat" alt="omchaudhari553" /> </p>
 
 <!--  __________________________________ About Me __________________________________ -->
-<h3 align="left">🙋‍♂️ About Me</h3>
+<h2 align="left">Hi Developers 👋 </h2>
 
-- 🌱 I’m currently learning **Java Full Stack Development**
-- 🥋 I'm a very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas. ❤
-- 👨‍💻 All of my projects are available at [https://om-chaudhari-portfolio.netlify.app](https://om-chaudhari-portfolio.netlify.app)
-- 💬 Ask me about **Java & Web**
-- 📫 How to reach me **omchaudhari553@gmail.com**
-- ⚡ Fun fact **I am Funny😂**
-- 🔗 Connect Me on [**Linkedin**](linkedin.com/in/om-chaudhari-00277a250)
-- 👁‍🗨 What's Special about me? <br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ability to quickly Learn and Master a new skill and to implement it to solve a realtime problem.
-  
-<p align="left">
-<a href="https://linkedin.com/in/om chaudhari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="om chaudhari" height="30" width="40" /></a>
-<a href="https://fb.com/om chaudhari patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="om chaudhari patil" height="30" width="40" /></a>
-<a href="https://instagram.com/its_om_chaudhari_patil_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_om_chaudhari_patil_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/not om ff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="not om ff" height="30" width="40" /></a>
+I'm a passionate **Java Backend / Full Stack Developer** with a strong foundation in **Core Java, Spring Boot, and backend system design**. I have hands-on experience in building **RESTful APIs, microservices-based applications, and database-driven web applications**. I enjoy solving backend problems, writing clean code, and continuously improving my skills through real-world projects and internships.
+
+---
+
+### 🔧 **Technologies & Tools**
+
+#### 🚀 **Backend Skills**
+- **Languages**: Java, SQL  
+- **Frameworks**: Spring Framework, Spring Boot, Spring MVC, Spring Security  
+- **ORM & Persistence**: Hibernate, Spring Data JPA  
+- **Architecture**: RESTful APIs, Microservices, MVC  
+- **Security**: JWT Authentication, Role-Based Access Control  
+- **Messaging**: Apache Kafka  
+- **Caching**: Redis  
+
+#### 🎨 **Frontend Skills**
+- **Languages**: HTML, CSS  
+- **Technologies**: JSP, Bootstrap  
+- **Frameworks (Basic Exposure)**: Angular  
+
+#### 🛠 **DevOps Skills** *(Learning & Exploring)*  
+- **Containerization**: Docker, Kubernetes  
+- **CI/CD**: Jenkins, CI/CD pipelines  
+- **Cloud Platforms (Basics)**:
+  - AWS EC2  
+  - AWS S3  
+  - AWS RDS  
+  - AWS IAM  
+
+#### ⚡ **Apache Tools**
+- **Apache Kafka**: Event-driven messaging for asynchronous processing and scalable backend systems  
+
+#### 🛡️ **Other Skills**
+- **Version Control**: Git, GitHub  
+- **Build Tools**: Maven  
+- **Testing**: JUnit  
+- **Code Quality**: SonarQube  
+- **API Tools**: Postman, Swagger  
+- **IDE**: IntelliJ IDEA, Eclipse, VS Code  
+
+---
+
+### 🤝 **Let's Connect**
+I'm open to **Java Backend / Spring Boot opportunities**, collaboration on backend projects, and technical discussions.  
+Feel free to connect or explore my repositories for real-world Java projects.
+
+- 🔗 **LinkedIn**: http://linkedin.com/in/om-chaudhari553  
+- 💻 **GitHub**: https://github.com/omchaudhari553  
+- 📧 **Email**: omchaudhari553@gmail.com  
+
+<p align="right"> 
+  <img src="https://komarev.com/ghpvc/?username=om-chaudhari&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
-
-  <!--  __________________________________ Languages and Tools __________________________________ -->
-<br/>
-<div align="left">
-    <img src="https://skillicons.dev/icons?i=c,java,js,html,css,jquery,bootstrap,react,angular,hibernate,spring,mongodb,mysql,git,github,eclipse,vscode,npm&perline=8" />
-
-</div>
-
-<!--  __________________________________ Streak  __________________________________ -->
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omchaudhari553" alt="omchaudhari553" />
-</p>
-<br/> 
-<hr>
-<br/>
-
 <!--  __________________________________ My Github Stats __________________________________ -->
 
 
