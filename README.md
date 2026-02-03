@@ -1,4 +1,3 @@
-![logo](https://github.com/omchaudhari553/omchaudhari553/blob/main/om_Chaudhari%5B1%5D.gif)
 <h1 align="center">Hi 👋, I'm Om Chaudhari</h1>
 <h3 align="center">A Passionate Java Developer From India</h3>
 
