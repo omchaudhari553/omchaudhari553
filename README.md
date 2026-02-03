@@ -55,28 +55,11 @@ I'm a passionate **Java Backend / Full Stack Developer** with a strong foundatio
 I'm open to **Java Backend / Spring Boot opportunities**, collaboration on backend projects, and technical discussions.  
 Feel free to connect or explore my repositories for real-world Java projects.
 
-- 🔗 **LinkedIn**: http://linkedin.com/in/om-chaudhari553  
-- 💻 **GitHub**: https://github.com/omchaudhari553  
-- 📧 **Email**: omchaudhari553@gmail.com  
-
-<p align="right"> 
-  <img src="https://komarev.com/ghpvc/?username=om-chaudhari&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+- [LinkedIn](http://linkedin.com/in/om-chaudhari553)
+- [Portfolio](https://om-chaudhari-portfolio.netlify.app)
+- [Instagram](https://www.instagram.com/its_om_chaudhari_patil_?igsh=OW1pYmU2Z25mZnZl&utm_source=qr)
 <!--  __________________________________ My Github Stats __________________________________ -->
 
-
-<h3 align="left">📊 My Github Stats</h3>
-   <br/>
-<a href="https://github.com/omchaudhari553/github-readme-stats">
-<img align="center" height="175px" alt="omchaudhari553 Github Stats" 
-src="https://github-readme-stats.vercel.app/api?username=omchaudhari553&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-
-  <a href="https://github.com/omchaudhari553/github-readme-stats">
-    <img align="center" height="175px" alt="Gajendra Ingle Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omchaudhari553&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-  </a>
-  
-<br/>
-<br/>
 
 <!--  __________________________________ Graph __________________________________ -->
 
