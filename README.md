@@ -32,12 +32,12 @@ I'm a passionate **Java Backend / Full Stack Developer** with a strong foundatio
 - **Containerization**: Docker, Kubernetes  
 - **CI/CD**: Jenkins, CI/CD pipelines  
 - **Cloud Platforms (Basics)**:
-  - AWS EC2(Elastic Compute Cloud)
-  - AWS S3(Simple Sorage Service)  
-  - AWS RDS(Relational Database Service)  
-  - AWS IAM(Identity and Access Management)
-  - AWS ECR(Elastic Container Registry)
-  - AWS ECS(Elastic Container Service)
+  - AWS EC2 (Elastic Compute Cloud)
+  - AWS S3 (Simple Sorage Service)  
+  - AWS RDS (Relational Database Service)  
+  - AWS IAM (Identity and Access Management)
+  - AWS ECR (Elastic Container Registry)
+  - AWS ECS (Elastic Container Service)
   - AWS Lambda
 
 #### ⚡ **Apache Tools**
