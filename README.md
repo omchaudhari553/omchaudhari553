@@ -26,16 +26,19 @@ I'm a passionate **Java Backend / Full Stack Developer** with a strong foundatio
 #### 🎨 **Frontend Skills**
 - **Languages**: HTML, CSS  
 - **Technologies**: JSP, Bootstrap  
-- **Frameworks (Basic Exposure)**: Angular  
+- **Frameworks (Basic Exposure)**: Angular, React.js  
 
 #### 🛠 **DevOps Skills** *(Learning & Exploring)*  
 - **Containerization**: Docker, Kubernetes  
 - **CI/CD**: Jenkins, CI/CD pipelines  
 - **Cloud Platforms (Basics)**:
-  - AWS EC2  
-  - AWS S3  
-  - AWS RDS  
-  - AWS IAM  
+  - AWS EC2(Elastic Compute Cloud)
+  - AWS S3(Simple Sorage Service)  
+  - AWS RDS(Relational Database Service)  
+  - AWS IAM(Identity and Access Management)
+  - AWS ECR(Elastic Container Registry)
+  - AWS ECS(Elastic Container Service)
+  - AWS Lambda
 
 #### ⚡ **Apache Tools**
 - **Apache Kafka**: Event-driven messaging for asynchronous processing and scalable backend systems  
